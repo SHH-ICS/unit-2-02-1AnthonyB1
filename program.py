@@ -3,8 +3,4 @@
 
 def myFunction():
   # My Function
-  print("Hello World!")
-
-name = input("what is your name lad?")
-print("Welcome", name)
-myFunction()
+  return("Hello World!")
