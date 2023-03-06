@@ -3,7 +3,7 @@
 
 def myFunction():
   # My Function
-  print("Hello World")
+  print("Hello World!")
 
 name = input("what is your name lad?")
 print("Welcome", name)
